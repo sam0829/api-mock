@@ -1,14 +1,16 @@
-[
-  {
-    "name": "Divyang",
-    "surname": "Fichadiya",
-    "education": "BCA",
-    "dob": "02/09/1996"
-  },
-  {
-    "name": "Sandip (Deep na mota bhai)",
-    "surname": "Fichadiya",
-    "education": "MCA",
-    "dob": "08/02/1992"
-  }
-]
+{
+  "data": [
+      {
+        "name": "Divyang",
+        "surname": "Fichadiya",
+        "education": "BCA",
+        "dob": "02/09/1996"
+      },
+      {
+        "name": "Sandip (Deep na mota bhai)",
+        "surname": "Fichadiya",
+        "education": "MCA",
+        "dob": "08/02/1992"
+      }
+  ]
+}
